@@ -1,0 +1,44 @@
+body{
+    background-image: url(8545a561c8345dcc2853b32150d812fd.jpg);
+}
+
+    .element{
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+    border-radius: 8px;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    width: 150px;
+    height: 30px;
+    border: 2px solid black;
+    
+    }
+
+    .enviar{
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+    background-color: rgb(141, 137, 137);
+    border-radius: 20px;
+    height: 25px ;
+    width: 65px ;
+    color: aliceblue;
+    }
+
+
+    .escreva{
+    font-family: cursive;
+    color: rgb(0, 0, 0);     
+   }
+
+   .conteiner{
+    background-color: aliceblue;
+    width: 500PX;
+    height: 950PX;
+    border-radius: 40px;
+
+   }
+
+   .Título{
+    background-color: rgb(168, 202, 185);
+    
+   }
+
+   
